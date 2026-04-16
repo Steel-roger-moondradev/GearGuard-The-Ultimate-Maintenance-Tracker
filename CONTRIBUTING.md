@@ -1,9 +1,9 @@
 <h1 align="center">✨ Contributors Guide ✨</h1>
 
-<h3 align="center">Welcome to the GearGuard-The-Ultimate-Maintenance-Tracker project! 😍<br>
+<h3 align="center">Welcome to the GearGuard: The Ultimate Maintenance Tracker! 😍<br>
 We appreciate your interest in contributing.😊<br> </h3>
 
-First off, thank you for considering contributing to **GearGuard-The-Ultimate-Maintenance-Tracker! 🚀** This project is part of **Nexus Spring of Code (NSoC) 2026**, so please follow the rules carefully. We're excited to have you join our community. Every contribution, no matter how small, helps us build the best academic resource platform for students.
+First off, thank you for considering contributing to **🛠️ GearGuard: The Ultimate Maintenance Tracker! 🚀** This project is part of **Nexus Spring of Code (NSoC) 2026**, so please follow the rules carefully. We're excited to have you join our community. Every contribution, no matter how small, helps us build the best academic resource platform for students.
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
@@ -18,17 +18,18 @@ This guide will walk you through the entire contribution process, from setting u
 1. [Code of Conduct](#-code-of-conduct)
 2. [License](#-license)
 3. [Ways to Contribute](#-ways-to-contribute)
-Important Rules
-PR Requirements
-4. [Quick Start](#-quick-start)
-5. [Points & Difficulty Levels](#-points--difficulty-levels)
-6. [Contribution Guidelines](#-contribution-guidelines)
-Coding Guidelines
-7. [PR review Process](#-pr-review-process)
-8. [How To Contribute](#-how-to-contribute)
-9. [Need More Help](#-need-more-help)
-10. [Attribution](#-attribution)
-11. [Thank you for your contribution](#thank-you-for-your-contribution)
+4. [Important Rules](#-important-rules)
+5. [PR Requirements](#-pr-requirements)
+6. [Testing](#-testing)
+7. [Quick Start](#-quick-start)
+8. [Points & Difficulty Levels](#-points--difficulty-levels)
+9. [Contribution Guidelines](#-contribution-guidelines)
+10. [Coding Guidelines](#-coding-guidelines)
+11. [PR review Process](#-pr-review-process)
+12. [How To Contribute](#-how-to-contribute)
+13. [Need More Help](#-need-more-help)
+14. [Attribution](#-attribution)
+15. [Thank you for your contribution](#thank-you-for-your-contribution)
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
@@ -176,10 +177,9 @@ We aim to keep things smooth and transparent:
 
 <h2 align="center">Need More Help? 🤔</h1>
 
-<h3> Feel free to ask questions in the issue discussion.
-<br> Project maintainers will guide you.</h3>
-
-<p align="center"> You can refer to the following articles on basics of Git and Github and also contact the Project Mentors, in case you are stuck: <br>
+<p align="center"> Feel free to ask questions in the issue discussion.
+<br> Project maintainers will guide you.
+You can refer to the following articles on basics of Git and Github and also contact the Project Mentors, in case you are stuck: <br>
   <a href="https://help.github.com/en/desktop/contributing-to-projects/creating-an-issue-or-pull-request">How to create a Issue</a> <br>
   <a href="https://help.github.com/en/github/getting-started-with-github/fork-a-repo">Forking a Repo</a> <br>
   <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository">Cloning a Repo</a> <br>
@@ -205,5 +205,6 @@ The structure and recommendations follow **GitHub Open Source Guides** and best 
 Thank you for contributing to GearGuard-The-Ultimate-Maintenance-Tracker 🌟
 <br>
 We can't wait to see what you build! 🍽️✨
+<br>
 Happy Coding! 💙
 </h3>
